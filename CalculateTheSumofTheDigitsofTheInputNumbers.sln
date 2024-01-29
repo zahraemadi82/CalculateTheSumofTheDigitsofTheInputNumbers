@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTheSumofTheDigitsofTheInputNumbers", "CalculateTheSumofTheDigitsofTheInputNumbers\CalculateTheSumofTheDigitsofTheInputNumbers.csproj", "{552660F9-B60F-4B84-999B-C73A9181874E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552660F9-B60F-4B84-999B-C73A9181874E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552660F9-B60F-4B84-999B-C73A9181874E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552660F9-B60F-4B84-999B-C73A9181874E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552660F9-B60F-4B84-999B-C73A9181874E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FE54CC-1341-4B30-9806-BBFDF3BFCE0A}
+	EndGlobalSection
+EndGlobal
